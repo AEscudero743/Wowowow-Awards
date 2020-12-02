@@ -1,0 +1,33 @@
+.categories {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-family: 'Big Shoulders Inline Text', cursive;
+}
+
+body {
+    background-color: black;
+}
+
+.game {
+    color: #f8ff6b;
+}
+
+.novel {
+    color: #bb81ec;
+}
+
+img {
+    height: 300px;
+    border: groove white 5px;
+}
+
+.movie {
+    color: #ca6c8b;
+}
+
+.anime {
+    color: #bae1ff;
+}
